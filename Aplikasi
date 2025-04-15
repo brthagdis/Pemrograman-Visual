@@ -1,44 +1,38 @@
-Aplikasi Pencatatan Diet atau Kalori
-Deskripsi :
-Aplikasi pencatatan diet atau kalori adalah perangkat lunak yang dirancang untuk membantu pengguna dalam mengelola asupan makanan, menghitung kalori, dan melacak progres diet mereka. Aplikasi ini biasanya digunakan untuk tujuan kesehatan, kebugaran, atau pengelolaan berat badan.
-Fitur Utama
-Aplikasi pencatatan diet biasanya memiliki fitur-fitur berikut:
-
-a. Pencatatan Makanan dan Minuman
-Pengguna dapat mencatat makanan yang mereka konsumsi setiap hari.
-
-Database makanan dengan informasi nutrisi seperti kalori, protein, lemak, karbohidrat, serat, dan vitamin.
-
-Fitur pemindaian barcode untuk memasukkan makanan secara otomatis.
-
-b. Kalkulator Kalori dan Nutrisi
-Menghitung jumlah kalori yang dikonsumsi dan dibandingkan dengan target harian.
-
-Memberikan rekomendasi jumlah kalori berdasarkan berat badan, usia, jenis kelamin, dan tingkat aktivitas.
-
-Menyajikan informasi nutrisi untuk memastikan diet seimbang.
-
-c. Pelacakan Berat Badan dan Progress Diet
-Grafik atau tabel yang menunjukkan perubahan berat badan dari waktu ke waktu.
-
-Target berat badan yang bisa disesuaikan oleh pengguna.
-
-d. Rekomendasi Diet dan Meal Plan
-Rekomendasi menu makanan sesuai dengan kebutuhan diet (misalnya diet rendah karbohidrat, keto, vegetarian, dsb.).
-
-Resep sehat untuk membantu pengguna dalam memasak makanan yang sesuai dengan diet mereka.
-
-e. Integrasi dengan Perangkat Kesehatan
-Sinkronisasi dengan smartwatch atau fitness tracker untuk mencatat jumlah langkah, detak jantung, atau kalori yang terbakar.
-
-Memantau aktivitas fisik dan memberikan saran olahraga yang sesuai.
-
-f. Pengingat dan Notifikasi
-Notifikasi untuk mencatat makanan, minuman, atau olahraga.
-
-Pengingat minum air agar tubuh tetap terhidrasi.
-
-g. Fitur Komunitas dan Motivasi
-Forum atau komunitas di dalam aplikasi untuk berbagi pengalaman dan mendapatkan motivasi.
-
-Tantangan diet atau fitness untuk meningkatkan keterlibatan pengguna.
+________________________________________
+🥗 Aplikasi Pencatatan Diet
+Aplikasi pencatatan diet merupakan aplikasi yang dirancang untuk membantu pengguna dalam mencatat konsumsi makanan harian, serta memantau jumlah kalori yang telah dikonsumsi. Dengan adanya aplikasi ini, pengguna tidak perlu lagi mencatat manual, cukup dengan memasukkan nama makanan dan jumlah kalorinya, maka sistem akan otomatis menjumlahkan total kalori harian.
+Selain mencatat makanan, pengguna juga dapat menetapkan target kalori harian dan melihat status kalori apakah sudah terpenuhi, masih kurang, atau melebihi batas. Aplikasi ini juga memberikan motivasi untuk mendukung gaya hidup sehat.
+________________________________________
+✨ Fitur
+•	Menambahkan data makanan dan jumlah kalorinya.
+•	Menampilkan total kalori yang dikonsumsi pada hari itu.
+•	Menampilkan sisa kalori berdasarkan target harian.
+•	Mengatur target kalori harian.
+•	Menampilkan status seperti: “Masih aman”, “Mendekati batas”, atau “Melebihi batas kalori”
+•	Menghapus entri makanan.
+•	Mereset seluruh data makanan.
+•	Riwayat Kalori: Melihat data konsumsi pada hari-hari sebelumnya.
+________________________________________
+📌 Cara Penggunaan
+A. Pencatatan Makanan
+1.	Masukkan nama makanan dan jumlah kalorinya.
+2.	Data akan otomatis ditambahkan ke daftar makanan hari ini.
+3.	Aplikasi akan menghitung total kalori yang sudah dikonsumsi dan menampilkan:
+o	Total kalori
+o	Target kalori
+o	Sisa kalori
+o	Status kalori
+4.	Setelah ditampilkan, pengguna akan ditanya:
+“Ingin menambahkan makanan lagi? Tekan ‘n’ untuk keluar, atau tombol lain untuk lanjut.”
+5.	Jika memilih keluar, aplikasi berhenti dan menampilkan ucapan terima kasih serta motivasi.
+________________________________________
+B. Riwayat Kalori
+1.	Buka menu "Riwayat Kalori" dari halaman utama atau sidebar.
+2.	Pilih tanggal yang ingin dilihat.
+3.	Aplikasi akan menampilkan:
+o	Daftar makanan yang dikonsumsi pada hari tersebut
+o	Total kalori
+o	Target harian
+o	Status kalori (terpenuhi / belum / melebihi)
+4.	Riwayat bersifat baca saja, tidak dapat diedit.
+5.	Navigasi ke tanggal lain untuk melihat riwayat lainnya.
