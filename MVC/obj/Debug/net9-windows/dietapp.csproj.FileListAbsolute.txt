@@ -1,0 +1,112 @@
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\dietapp.exe
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\dietapp.deps.json
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\dietapp.runtimeconfig.json
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\dietapp.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\dietapp.pdb
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\BouncyCastle.Cryptography.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\Dapper.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\EntityFramework.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\Google.Protobuf.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\Hangfire.Core.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\Hangfire.MySql.Core.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\K4os.Compression.LZ4.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\K4os.Hash.xxHash.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\System.ServiceModel.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\MySql.Data.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\System.Data.SQLite.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\System.Data.SQLite.EF6.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\ZstdSharp.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\es\Hangfire.Core.resources.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\zh-TW\Hangfire.Core.resources.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\zh\Hangfire.Core.resources.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net9-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.LoginForm.resources
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.InputData.resources
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.BmiForm.resources
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.HistorysForm.resources
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.Properties.Resources.resources
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.AssemblyInfo.cs
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.csproj.Up2Date
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.dll
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\refint\dietapp.dll
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.pdb
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\dietapp.genruntimeconfig.cache
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net9-windows\ref\dietapp.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\dietapp.exe
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\dietapp.deps.json
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\dietapp.runtimeconfig.json
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\dietapp.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\dietapp.pdb
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\BouncyCastle.Cryptography.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\Dapper.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\EntityFramework.SqlServer.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\EntityFramework.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\Google.Protobuf.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\Hangfire.Core.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\Hangfire.MySql.Core.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\K4os.Compression.LZ4.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\K4os.Hash.xxHash.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\System.ServiceModel.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\MySql.Data.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\Newtonsoft.Json.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\System.Data.SQLite.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\System.Data.SqlClient.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\System.Data.SQLite.EF6.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\ZstdSharp.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\es\Hangfire.Core.resources.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\zh-TW\Hangfire.Core.resources.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\zh\Hangfire.Core.resources.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\bin\Debug\net9-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.csproj.AssemblyReference.cache
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.LoginForm.resources
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.InputData.resources
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.BmiForm.resources
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.HistorysForm.resources
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.Properties.Resources.resources
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.csproj.GenerateResource.cache
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.AssemblyInfoInputs.cache
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.AssemblyInfo.cs
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.csproj.CoreCompileInputs.cache
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.csproj.Up2Date
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\refint\dietapp.dll
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.pdb
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\dietapp.genruntimeconfig.cache
+C:\Users\lisagstin\Documents\Kuliyah Lisyaa\Semester 6\Pemrograman Visual\dietapp\obj\Debug\net9-windows\ref\dietapp.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net8.0-windows\dietapp.exe
+C:\Users\HP\source\repos\dietapp\dietapp\bin\Debug\net8.0-windows\dietapp.dll
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.LoginForm.resources
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.InputData.resources
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.BmiForm.resources
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.HistorysForm.resources
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.Properties.Resources.resources
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.AssemblyInfo.cs
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.dll
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\refint\dietapp.dll
+C:\Users\HP\source\repos\dietapp\dietapp\obj\Debug\net8.0-windows\dietapp.pdb
